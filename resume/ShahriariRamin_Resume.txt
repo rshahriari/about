@@ -1,0 +1,82 @@
+	        
+Ramin Shahriari			 					 
+rshahriari@alumni.usc.edu
+(310) 795-5128
+Cary, NC 27513
+
+
+Objective
+Senior level leadership position in a fast-growing company that utilizes my leadership, management, innovation and architectural skills to drive results toward improving the future of the company and the industry.
+
+Summary of Qualifications
+Director of Engineering with 9 years of experience in leadership and management, including growth planning and budgeting in multi-location, multi-discipline agile environments. Over 18 years of experience in software architecture, design and development. 
+
+Professional Experiences
+Netsertive, Morrisville, NC	2010 - Present
+Senior Director of Engineering	2018 - Present
+Director of Engineering	2016 - 2018
+Responsible for the complete delivery of quality software from definition to delivery and support for all Netsertive products.
+Grow the Engineering team from 2 individuals to 7 agile teams, 5 managers, 5 architects and total of 50 Engineers including Developers, QAs, DevOps, DBAs, onshore and offshore.
+Responsible for departmental budget planning, capacity planning and resource management.
+Assisted in evaluating and reviewing IP during Merger and Acquisition.
+Managed the team in evaluating and migrating to from basic LAMP stack to new generation stacks including MERN.
+Encouraged and Managed the team to migrate to modern microservice based architecture.
+Worked directly with finance on software capitalization, budgeting and planning for the entire engineering team.
+Managed the complete business relationship with our offshore resource vendors.
+
+Software Development Manager	2013 - 2016
+Coached and transitioned the entire engineering team to agile Scrum and Kanban.
+Hired, directed and managed 12 software and qa engineers divided in 3 Scrum teams and 1 Kanban team - Leading in 5 times increase in product features in only one year.
+Assisted in interviewing and hiring the entire engineering team including QA Lead, DBA Lead, and System Engineer Lead. Further assisted those leads to grow their team.
+Assisted other departments in hiring and growing - including product management team, recruiting team and sales productivity .
+Encouraged the business to value internship program, which resulted in 10 software interns over 6 summers, and 6 transitioned to full time positions at Netsertive.
+Mentored engineers to successfully grow in their career goals, some successfully grow to be managers and leads in the company. 
+Constructed and conducted weekly architecture and brown bag sessions to encourage knowledge sharing beyond day-to-day work.
+Constructed committees and tiger-teams to research and solve process or tools challenges, encouraging collaboration and teamwork.
+
+Senior Software Engineer	2010 - 2012
+Architected, designed, and developed tools in LAMP stack utilizing open-source, to control, manage and monitor advertising campaign using Google AdWords, Bing AdCenter, and Facebook API.
+Created development processes for all development life cycle.
+Worked with management team in evaluating project pipelines, team capacity planning, and hiring processes (Interview and Budgeting).
+Gathered and groomed requirement based on customer needs and feedbacks, as well as supporting business growth.
+
+Motricity, Morrisville, NC	2006 - 2010
+Lead Software Engineer	
+Managed and led eight developers in three different offices, onshore and offshore.
+Created development processes for all development life cycle in agile framework, encouraged and monitored the team to fully adopt it.
+Worked with management team in Evaluating Project Pipelines as well as Team Capacity Planning.
+Gathered and clarified requirement to satisfy architectural desires and customer’s needs (Customer like CNN, NBC, Showtime, Twitter), as well as Carrier Compliances with Verizon, AT&T, T-Mobile.
+Architected, designed, and developed new features and enhancements to 80% of all Gateway Components. (SMPP (SMS, WAP), MMS, HTTP) using .Net framework.
+Supported Business, QA, DBA and support team by providing documentation and architectural reviews and trainings as well as helping to improve cross-functional processes.
+
+Prior Experiences:	1998 -  2006
+Hardware and Software Design Engineer, various companies in Los Angeles California 	
+Creating interfaces with GUI to detect, monitor and configure digital servo controllers, communicating through USB. (Hardware, Software and Firmware).
+Design hardware and software for Servo Controllers.
+Improved company’s productivity by designing and maintaining company’s web page, product inventory, product documentation and manuals.
+Introduced continuous integration and a unit-test framework for the robot-controller product.
+Designed, produced and supported the complete Hardware and Software for Control Systems using microprocessors.
+
+Education
+North Carolina State University, Raleigh, NC 	2013
+Jenkins Graduate School of Management.
+Master of Business Administration (MBA) – Dual concentration in Entrepreneurship and Finance.		
+
+University of Southern California, Los Angeles, CA	2004
+Masters of Science in Computer Science.
+Research Assistant – DBLab, InfoLab – Scalable .Net Infrastructure, Peer-to-Peer Networks.
+Teaching Assistant – Programming the World Wide Web.
+
+Sharif University of Technology, Tehran, Iran	2000
+Bachelors of Science in Electrical Engineering.
+Full scholarship in number one ranked Engineering University in Iran.
+
+Certifications and Awards
+Practical Management and Leadership Practices Certification, CAI Training	Since 2015
+Certified Scrum Master	Since 2010
+Best Paper Award	2006
+“SkiPeR: A Family of Distributed Range Addressing Spaces for Peer-to-Peer Systems.” A. Daskos, S. Ghandeharizadeh, & R. Shahriari. ISCA 15th International Conference on Software Engineering and Data Engineering, (SEDE 2006), CA, July 2006.
+
+References - Available upon request
+
+
