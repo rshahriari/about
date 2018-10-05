@@ -12,8 +12,11 @@ Summary of Qualifications
 Director of Engineering with 9 years of experience in leadership and management, including growth planning and budgeting in multi-location, multi-discipline agile environments. Over 18 years of experience in software architecture, design and development. 
 
 Professional Experiences
-Netsertive, Morrisville, NC	2010 - Present
-Senior Director of Engineering	2018 - Present
+ServiceTrade, Morrisville, NC	2018 - Present
+Vice President of Engineering
+
+Netsertive, Morrisville, NC	2010 - 2018
+Senior Director of Engineering	2018 - Sep 2018
 Director of Engineering	2016 - 2018
 Responsible for the complete delivery of quality software from definition to delivery and support for all Netsertive products.
 Grow the Engineering team from 2 individuals to 7 agile teams, 5 managers, 5 architects and total of 50 Engineers including Developers, QAs, DevOps, DBAs, onshore and offshore.
