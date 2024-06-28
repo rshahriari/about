@@ -6,67 +6,63 @@ Cary, NC 27513
 
 
 Objective
-Senior leadership in a fast-growing company that utilizes my leadership, management, innovation and architectural skills to drive results toward improving the future of the company and the industry.
+Senior leadership in a fast-growing company where I can leverage my leadership, management, innovation, and architectural skills to drive results and contribute to the company's and industry's advancement.
 
 Summary of Qualifications
-Vice President of Engineering with 14 years of experience in leadership and management, including growth planning and budgeting in multi-location, multi-discipline agile environments. Over 25 years of experience in software design, architecture and development. 
+Seasoned Software Engineering Leader with 25 years of experience in quality software architecture and development, including 14 years in leadership. Proven track record in delivering reliable, secure, and high-quality products on time in multi-location, multi-discipline agile environments, on-premises and in the cloud.  
 
 Professional Experiences
-ServiceTrade, Morrisville, NC	October 2018 - Present
+ServiceTrade, Durham, NC	October 2018 - Present
 Vice President of Engineering	
-Grew Engineering team from 4 to 60 Engineers, 7 agile teams, delivering all ServiceTrade products.
-Managing multiple stacks (LAMP, MERN, Serverless, .Net Core), multiple clouds (AWS/Azure)  - All Disciplines (Developers, QAs, DevOps, Site Reliability, Architects,  Dev Managers)
-Introduced and grew the offshore and nearshore development team to ServiceTrade.
-Organized and managed all multi-location multi-time zone agile development teams.
-Provide Tech Due diligence process for raising capital investments -  $10M by Frontier Growth;  $85M by JMI.
-Evaluating, acquiring and successfully onboarding, integrating and growing 2 companies. 
-Managed all business relationships with all third-party software vendors.
-
+Directed infrastructure and automation strategies, growing the engineering team from 4 to 86 engineers across 9 agile teams, including on-shore, offshore, and nearshore engineers.
+Managed multiple tech stacks (LAMP, MERN, Serverless, .Net Core) and cloud platforms (AWS, Azure), overseeing developers, QA, DevOps, site reliability, architects, and development managers.
+Developed and optimized a robust, reliable, secure, and compliant software deployment ecosystem.
+Implemented engineering metrics and KPIs to support the team in continuously improving quality and efficiency, ensuring predictable delivery. 
+Enabled cross-divisional collaboration and reengineered processes to enhance overall productivity.
+Established quality metrics to measure, understand, and prioritize code quality improvements, facilitating clear communication across the organization and with customers.
+Conducted technical due diligence for capital investments (Frontier Growth: $10M; JMI: $85M).
+Evaluated, acquired, successfully onboarded, integrated, and grew two software companies.
+Managed business relationships with third-party software vendors and represented the company to customers.
+Managed budget planning and cost management for all engineering resources, including headcounts, contracts, software infrastructure cost optimizations, and infrastructure roadmap planning.
 
 Netsertive, Morrisville, NC	2010 - 2018
-Senior Director of Engineering	2018 - Sep 2018
+Senior Director of Engineering	March 2018 - September 2018
 Director of Engineering	2016 - 2018
-Responsible for the complete delivery of quality software from definition to delivery and support for all Netsertive products.
-Grow the Engineering team from 2 individuals to 7 agile teams, 5 managers, 5 architects and total of 50 Engineers including Developers, QAs, DevOps, DBAs, onshore and offshore.
-Responsible for departmental budget planning, capacity planning and resource management.
-Assisted in evaluating and reviewing IP during Merger and Acquisition.
-Managed the team in evaluating and migrating to from basic LAMP stack to new generation stacks including MERN.
-Encouraged and Managed the team to migrate to modern microservice based architecture.
-Worked directly with finance on software capitalization, budgeting and planning for the entire engineering team.
-Managed the complete business relationship with our offshore resource vendors.
+Delivered reliable, high-quality, secure software from definition to delivery, support, and maintenance for all Netsertive products.
+Expanded the engineering team from 2 individuals to 7 agile teams, 5 managers, 5 architects, and a total of 50 engineers, including developers, QA, DevOps, and DBAs onshore and offshore.
+Led the transition from LAMP stack to MERN stack, moved to microservice-based architecture, and migrated from on-prem to AWS cloud.
+Managed engineering budget planning, capacity planning, resource management, and software capitalization.
+Assisted in evaluating and reviewing IP during mergers and acquisitions.
 
 Software Development Manager	2013 - 2016
-Coached and transitioned the entire engineering team to agile Scrum and Kanban.
-Hired, directed and managed 12 software and qa engineers divided in 3 Scrum teams and 1 Kanban team - Leading in 5 times increase in product features in only one year.
-Assisted in interviewing and hiring the entire engineering team including QA Lead, DBA Lead, and System Engineer Lead. Further assisted those leads to grow their team.
-Assisted other departments in hiring and growing - including product management team, recruiting team and sales productivity .
-Encouraged the business to value internship program, which resulted in 10 software interns over 6 summers, and 6 transitioned to full time positions at Netsertive.
-Mentored engineers to successfully grow in their career goals, some successfully grow to be managers and leads in the company. 
-Constructed and conducted weekly architecture and brown bag sessions to encourage knowledge sharing beyond day-to-day work.
-Constructed committees and tiger-teams to research and solve process or tools challenges, encouraging collaboration and teamwork.
+Coached and transitioned the engineering team to agile Scrum and Kanban methodologies.
+Recruited and managed 12 software and QA engineers across 4 Scrum/Kanban teams, leading to a fivefold increase in product features within one year.
+Assisted other departments in hiring and growth, including product management, recruiting, and sales productivity.
+Promoted the internship program, resulting in 10 software interns over 6 summers, with 6 transitioning to full-time positions.
+Mentored engineers in their career development, with several advancing to management and leadership roles.
+Conducted weekly architecture and knowledge-sharing sessions.
+Formed committees and tiger teams to address process and tool challenges, fostering collaboration and teamwork.
 
 Senior Software Engineer	2010 - 2012
-Architected, designed, and developed tools in LAMP stack utilizing open-source, to control, manage and monitor advertising campaign using Google AdWords, Bing AdCenter, and Facebook API.
-Created development processes for all development life cycle.
-Worked with management team in evaluating project pipelines, team capacity planning, and hiring processes (Interview and Budgeting).
-Gathered and groomed requirement based on customer needs and feedbacks, as well as supporting business growth.
+Architected, and developed tools in LAMP stack on-prem, to manage and monitor advertising campaigns using Google AdWords, Bing AdCenter, and Facebook API.
+Created development processes for all development life cycles.
 
 Motricity, Morrisville, NC	2006 - 2010
 Lead Software Engineer	
-Managed and led eight developers in three different offices, onshore and offshore.
-Created development processes for all development life cycle in agile framework, encouraged and monitored the team to fully adopt it.
-Worked with management team in Evaluating Project Pipelines as well as Team Capacity Planning.
-Gathered and clarified requirement to satisfy architectural desires and customer’s needs (Customer like CNN, NBC, Showtime, Twitter), as well as Carrier Compliances with Verizon, AT&T, T-Mobile.
-Architected, designed, and developed new features and enhancements to 80% of all Gateway Components. (SMPP (SMS, WAP), MMS, HTTP) using .Net framework.
-Supported Business, QA, DBA and support team by providing documentation and architectural reviews and trainings as well as helping to improve cross-functional processes.
+Managed and led eight developers across three offices, onshore and offshore.
+Created development processes for all life cycles in an agile framework and coached the team in adopting it.
+Collaborated with the management team on product pipelines and capacity planning.
+Gathered and clarified requirements to meet architectural goals and customer needs, including compliance with carriers like Verizon, AT&T, and T-Mobile.
+Architected, designed, and developed new features and enhancements for 80% of gateway components using .Net framework.
+Supported business, QA, DBA, and support teams with documentation, architectural reviews, training, and process improvements.
 
 Prior Experiences:	1998 -  2006
 Hardware and Software Design Engineer, various companies in Los Angeles California 	
-Creating interfaces with GUI to detect, monitor and configure digital servo controllers, communicating through USB. (Hardware, Software and Firmware).
-Design hardware and software for Servo Controllers.
-Improved company’s productivity by designing and maintaining company’s web page, product inventory, product documentation and manuals.
-Introduced continuous integration and a unit-test framework for the robot-controller product.
-Designed, produced and supported the complete Hardware and Software for Control Systems using microprocessors.
+Developed GUI interfaces for digital servo controllers, communicating through USB (hardware, software, and firmware).
+Designed hardware and software for servo controllers.
+Improved productivity by designing and maintaining company web pages, product inventory, and documentation.
+Introduced continuous integration and unit-test frameworks for robot-controller products.
+Designed and supported control systems using microprocessors
 
 Education
 North Carolina State University, Raleigh, NC 	2013
@@ -79,15 +75,13 @@ Research Assistant – DBLab, InfoLab – Scalable .Net Infrastructure, Peer-to-
 Teaching Assistant – Programming the World Wide Web.
 
 Sharif University of Technology, Tehran, Iran	2000
-Bachelors of Science in Electrical Engineering.
+Bachelor of Science in Electrical Engineering.
 Full scholarship in number one ranked Engineering University in Iran.
 
 Certifications and Awards
-Practical Management and Leadership Practices Certification, CAI Training	Since 2015
-Certified Scrum Master	Since 2010
+Practical Management and Leadership Practices Certification, CAI Training	2015
+Certified Scrum Master	2010
 Best Paper Award	2006
 “SkiPeR: A Family of Distributed Range Addressing Spaces for Peer-to-Peer Systems.” A. Daskos, S. Ghandeharizadeh, & R. Shahriari. ISCA 15th International Conference on Software Engineering and Data Engineering, (SEDE 2006), CA, July 2006.
 
 References - Available upon request
-
-
