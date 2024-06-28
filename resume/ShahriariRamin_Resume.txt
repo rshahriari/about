@@ -12,10 +12,10 @@ Summary of Qualifications
 Vice President of Engineering with 14 years of experience in leadership and management, including growth planning and budgeting in multi-location, multi-discipline agile environments. Over 25 years of experience in software design, architecture and development. 
 
 Professional Experiences
-ServiceTrade, Morrisville, NC	October 2018 - June 2024
+ServiceTrade, Morrisville, NC	October 2018 - Present
 Vice President of Engineering	
 Grew Engineering team from 4 to 60 Engineers, 7 agile teams, delivering all ServiceTrade products.
-Managing multiple stacks (LAMP, MERN, Serverless, .Net Core), multiple clouds (AWS/Azure)  - All Disciplines (Developers, QAs, DevOps, Sire Reliability, Architects,  Dev Managers)
+Managing multiple stacks (LAMP, MERN, Serverless, .Net Core), multiple clouds (AWS/Azure)  - All Disciplines (Developers, QAs, DevOps, Site Reliability, Architects,  Dev Managers)
 Introduced and grew the offshore and nearshore development team to ServiceTrade.
 Organized and managed all multi-location multi-time zone agile development teams.
 Provide Tech Due diligence process for raising capital investments -  $10M by Frontier Growth;  $85M by JMI.
