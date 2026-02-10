@@ -10,7 +10,17 @@ Senior leadership role in a fast-growing company where I can leverage my leaders
 Seasoned Software Engineering Leader with 25 years of experience in quality software architecture and development, including 14 years in leadership roles. Proven track record in product leadership, delivering reliable, secure, and high-quality products on time in multi-location, multi-discipline agile environments, both on-premises and in the cloud.
 
 # Professional Experiences
-## ServiceTrade, Durham, NC	October 2018 - Present
+## KaRaTech Solutions - Active
+Founder | Technology & Strategy Consultant
+Founded KaRa Tech Solutions to help businesses scale, optimize, and modernize their technology strategies.
+Provide strategic leadership, architecture consulting, and hands-on technical expertise to organizations navigating growth, technical transitions, or complex acquisitions.
+What We Offer:
+- Strategic Leadership & Team Building – Engineering leadership, resource management, and scaling teams effectively.
+- Architecture & Technology Consulting – Scalable architecture design, modernizing legacy systems, managing tech debt.
+- Due Diligence & Acquisition Consulting – Technical due diligence for acquisitions, capital strategy, and integrations.
+- Hands-On Expertise – DevOps, infrastructure optimization, database engineering, and cloud solutions.
+
+## ServiceTrade, Durham, NC	October 2018 - July 2024
 Vice President of Engineering	
 Developed and enhanced business and technical teams from 2018 to 2024, driving revenue growth from $4M to $50M.
 Directed infrastructure and automation strategies, growing the engineering team from 4 to 86 engineers across 9 agile teams, including on-shore, offshore, and nearshore engineers.
