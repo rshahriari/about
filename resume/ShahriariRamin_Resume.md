@@ -3,12 +3,12 @@
 Cary, NC | U.S. Citizen | https://www.linkedin.com/in/rshahriari/
 
 
-# Senior Engineering Leader (VP+) | Platform Modernization | Scaling Global Teams
-Engineering executive with 25 years of experience building and scaling high-performing teams and delivering complex software systems. Proven track record leading multi-stack platform modernization, post-acquisition integration, and cloud transformation initiatives. Focused on building strong teams, improving delivery, and aligning engineering with business outcomes.
+# Senior Engineering Leader (VP+) & Architecture| Platform Modernization | Scaling Global Teams
+Engineering executive with 25 years of experience leading platform modernization, scaling global engineering organizations, and driving architecture strategy in high-growth environments. Proven track record aligning system design, cloud transformation, and AI-enabled capabilities with business outcomes. Operates as a player–coach, combining hands-on technical depth with executive leadership and cross-functional influence..
 
 # Core Strengths
 - Engineering Leadership & Org Scaling (5 → 80+ engineers)
-- Platform Consolidation & System Integration
+- Platform Architecture & System Integration
 - Cloud Architecture (AWS, Azure) & Distributed Systems
 - Execution Excellence & Delivery Predictability
 - DevOps, CI/CD, and Operational Maturity
@@ -22,27 +22,31 @@ Engineering executive with 25 years of experience building and scaling high-perf
 Founded KaRa Tech Solutions to help businesses scale, optimize, and modernize their technology strategies.
 Provide strategic leadership, architecture consulting, and hands-on technical expertise to organizations navigating growth, technical transitions, or complex acquisitions.
 What We Offer:
-- Advising companies on platform modernization, cloud architecture, and engineering operations
-- Supporting DevOps maturity, scalability, and AI-related process improvements
+- Advising companies on platform modernization, architecture strategy, and engineering operations, including AI-related initiatives
+- Supporting DevOps maturity, scalability, and engineering execution improvements
 
 
 ## ServiceTrade – Durham, NC
 ### Vice President of Engineering | 2018 – 2024
+- Defined and led architectural strategy across multi-stack platforms, aligning system design with scalability, reliability, and business growth
 - Scaled engineering organization from 4 to 86 across multiple teams (US, offshore, nearshore)
 - Led platform evolution across multiple stacks and cloud environments (AWS, Azure)
+- Served as senior technology leader interfacing with executive team, investors, and customers on architecture and product strategy
 - Directed post-acquisition integration of multiple products, aligning architectures and consolidating systems into a unified platform
 - Established KPIs and execution processes (planning, estimation, reporting) to improve delivery predictability and accountability
-- Built DevOps and infrastructure strategy to support reliable, secure, and scalable SaaS delivery
-- Led AI initiatives (AWS Bedrock) to support product enhancements and engineering productivity
+- Built DevOps and infrastructure strategy to enable reliable, secure, and scalable SaaS platform operations
+- Led AI initiatives leveraging AWS Bedrock, translating emerging capabilities into practical product and platform enhancements
 - Partnered with executive leadership on product strategy, roadmap prioritization, and customer-facing initiatives
 - Led technical due diligence and supported growth investments ($10M–$85M), partnering with investors and executive leadership
 - Successfully integrated acquired products and teams, improving product capability and scaling engineering capacity post-acquisition
+- Embedded secure SDLC practices into engineering processes, improving system integrity and operational reliability
+
 
 
 ## Netsertive – Morrisville, NC
 ### Senior Director of Engineering /  Software Development Manager | 2010 – 2018
 - Scaled engineering from 2 to ~50 engineers across multiple teams and disciplines
-- Led migration from monolithic LAMP stack to microservices (MERN) and AWS cloud
+- Led architectural transformation from monolithic LAMP systems to microservices-based platforms (MERN) on AWS, improving scalability and system flexibility
 - Supported evaluation of technology and systems during M&A activities and platform evolution efforts
 - Played a key role in scaling the organization from early-stage to multi-team structure supporting rapid revenue growth
 - Established agile processes (Scrum/Kanban) and improved delivery throughput significantly
